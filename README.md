@@ -1,9 +1,9 @@
 # borkchat
-Chat app joke about borking\n
+Chat app joke about borking
 # Package requirements
-express - For HTTP.\n
-socket.io - For communicating.\n
+express - For HTTP. |
+socket.io - For communicating.
 # Credits
-Shibe Emoji - Made by Google\n
-Sound.js - Made by gskinner\n
-Bork Audio - Gabe the dog Sound\n
+Shibe Emoji - Made by Google |
+Sound.js - Made by gskinner |
+Bork Audio - Gabe the dog Sound 
