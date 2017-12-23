@@ -1,0 +1,5 @@
+bork-min: bork (this is journey begins...)
+bork-min: bork (about chat app joke...)
+bork-min: bork (... so, my server is running on..)
+bork-min: bork (node.js, includes packages of socket.io and express...)
+bork-min: bork (so, let's get started now on..)
